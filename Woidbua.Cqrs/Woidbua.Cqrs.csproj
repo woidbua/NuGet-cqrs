@@ -5,11 +5,12 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-        <Title>Cqrs interfaces</Title>
+        <Title>CQRS interfaces</Title>
         <Authors>Andre Multerer</Authors>
         <PackageId>Woidbua.Cqrs</PackageId>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <RepositoryUrl>https://gitlab.com/woidbua-nuget/cqrs</RepositoryUrl>
+        <Version>1.0.1</Version>
     </PropertyGroup>
 
     <ItemGroup>
