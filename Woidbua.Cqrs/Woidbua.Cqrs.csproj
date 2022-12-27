@@ -10,12 +10,12 @@
         <PackageId>Woidbua.Cqrs</PackageId>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <RepositoryUrl>https://gitlab.com/woidbua-nuget/cqrs</RepositoryUrl>
-        <Version>1.0.1</Version>
+        <Version>1.0.2</Version>
     </PropertyGroup>
 
     <ItemGroup>
         <PackageReference Include="FluentResults" Version="3.15.1" />
         <PackageReference Include="MediatR" Version="11.1.0" />
     </ItemGroup>
-    
+
 </Project>

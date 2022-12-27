@@ -1,3 +1,3 @@
-namespace Woidbua.Cqrs;
+﻿namespace Woidbua.Cqrs;
 
-public abstract record DomainEvent(Guid Id) : IDomainEvent;
+public abstract record DomainEvent(Guid Id) : BaseDomainEvent(Id, DateTime.UtcNow);
