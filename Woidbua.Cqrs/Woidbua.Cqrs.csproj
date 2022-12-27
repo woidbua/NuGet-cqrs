@@ -10,7 +10,7 @@
         <PackageId>Woidbua.Cqrs</PackageId>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <RepositoryUrl>https://gitlab.com/woidbua-nuget/cqrs</RepositoryUrl>
-        <Version>1.0.2</Version>
+        <Version>1.0.3</Version>
     </PropertyGroup>
 
     <ItemGroup>

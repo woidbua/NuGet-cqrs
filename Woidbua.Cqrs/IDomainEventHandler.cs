@@ -2,6 +2,6 @@ using MediatR;
 
 namespace Woidbua.Cqrs;
 
-public interface IDomainEventHandler : INotificationHandler<IDomainEvent>
+public interface IDomainEventHandler<in T> : INotificationHandler<T> where T : IDomainEvent
 {
 }
